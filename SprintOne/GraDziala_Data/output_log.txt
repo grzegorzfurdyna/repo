@@ -1,0 +1,42 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.29]
+    Renderer: ATI Mobility Radeon HD 5650   
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Łukasz\Downloads\Gra Android\SprintOne\GraDziala_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Łukasz\Downloads\Gra Android\SprintOne\GraDziala_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Łukasz\Downloads\Gra Android\SprintOne\GraDziala_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Łukasz\Downloads\Gra Android\SprintOne\GraDziala_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Łukasz\Downloads\Gra Android\SprintOne\GraDziala_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.791850 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 0.557028 ms (FindLiveObjects: 0.012703 ms CreateObjectMapping: 0.010778 ms MarkObjects: 0.088154 ms  DeleteObjects: 0.003849 ms)
+
+UnloadTime: 0.666740 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 0.542784 ms (FindLiveObjects: 0.009623 ms CreateObjectMapping: 0.011163 ms MarkObjects: 0.088539 ms  DeleteObjects: 0.005389 ms)
+
+UnloadTime: 0.659810 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 0.426143 ms (FindLiveObjects: 0.005389 ms CreateObjectMapping: 0.010008 ms MarkObjects: 0.062362 ms  DeleteObjects: 0.003079 ms)
+
+UnloadTime: 0.807248 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 0.577815 ms (FindLiveObjects: 0.007314 ms CreateObjectMapping: 0.012703 ms MarkObjects: 0.076220 ms  DeleteObjects: 0.004234 ms)
+
