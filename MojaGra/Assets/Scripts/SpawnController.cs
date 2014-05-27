@@ -6,6 +6,8 @@ public class SpawnController : MonoBehaviour {
 
 	public float maxHeight;
 	public float minHeight;
+	public float maxSpawn;
+	public float minSpawn;
 
 	public float rateSpawn;
 	private float currentRateSpawn;
@@ -35,6 +37,7 @@ public class SpawnController : MonoBehaviour {
 		if (gameController.GetCurrentState () != GameStates.INGAME)
 		return;
 		currentRateSpawn += Time.deltaTime;
+		rateSpawn = Random.Range (minSpawn, maxSpawn);
 		if (currentRateSpawn > rateSpawn) {
 					currentRateSpawn = 0;
 					Spawn ();
